@@ -1,4 +1,1 @@
-ignitespeak
-===========
-
-System for collecting Ignite speaker proposals
+This repo has been moved to https://github.com/ignitebaltimore/ignitespeak
